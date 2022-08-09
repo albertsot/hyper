@@ -3,6 +3,7 @@ body{
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     color: blue;
     size: 50px;
+    background-color: yellow;
 }
 #container{
     text-align: center;
